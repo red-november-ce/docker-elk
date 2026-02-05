@@ -9,6 +9,9 @@
 и docker-compose up -d
 
 # В Kibana
+
+https:// <IP адрес>:5601
+
 Создайте Index Pattern: cisco-logs-*
 
 Timestamp field: @timestamp
